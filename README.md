@@ -10,7 +10,7 @@ Together, the generator and discriminator are trained to work against each other
 Dataset used is the popular MNIST Digit dataset. The dataset is pre-loaded into the keras library and can be used by importing it from keras.
 
 ## Results
-The following is a set of 25 images produced by the GAN after 40000 epochs:
-
+The following is a set of 25 images produced by the GAN after 38000 epochs:
+![result](https://github.com/Karan-Malik/SimpleGANs/blob/master/Result_Images/38000.jpg)
 
 Epoch wise images produced by the GAN are stored in the folder 'gan_images'.
